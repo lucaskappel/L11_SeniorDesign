@@ -12,7 +12,7 @@ dispense_tab_g_code_signal_on = "" #TODO - Turn the digital signal to the attach
 dispense_tab_g_code_signal_off = "" #TODO - reset the digital signal to trigger dispensing
 
 dispense_tab_delay_time = 1 #TODO - How long to wait for tab dispension to complete
-# Displacement offset for the tab dispensing; the gantry head must be moved from the syringe’s normal position to place the tabs appropriately.
+#Displacement offset for the tab dispensing; the gantry head must be moved from the syringe’s normal position to place the tabs appropriately.
 tab_dispenser_x_offset_from_syringe_normal_position = 11 #TODO
 tab_dispenser_y_offset_from_syringe_normal_position = 7 #TODO
 valve_time_for_tab = 0.1 # TODO – Add a DROP to the tab
